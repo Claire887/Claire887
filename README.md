@@ -9,6 +9,6 @@ Claire887/Claire887 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
+[![OSCS Status](undefined/platform/badge/Claire887/Claire887.svg?size=small)](undefined/project/Claire887/Claire887?ref=badge_small)
 
-<a href="undefined/project/oscs/Claire887/Claire887?ref=badge_small" alt="OSCS Status"><img src="undefined/platform/badge/Claire887/Claire887.svg?size=small"/></a>
 
