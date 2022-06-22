@@ -8,7 +8,6 @@
 Claire887/Claire887 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-[![OSCS Status](undefined/platform/badge/Claire887/Claire887.svg?size=small)](undefined/project/Claire887/Claire887?ref=badge_small)
+[![OSCS Status](https://www.oscs1024.com/platform/badge/Claire887/Claire887.svg?size=small)](https://www.oscs1024.com/project/Claire887/Claire887?ref=badge_small)
 
 
